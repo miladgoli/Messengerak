@@ -13,7 +13,6 @@ This Project use:
 - Kotlin Coroutines.
 - KTX Library
 - Navigation Component
-- Live Data
 
 ## How to use?
 
